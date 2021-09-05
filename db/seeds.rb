@@ -63,8 +63,8 @@ puts
 puts
 puts "remove review"
 puts user1.remove_reviews(product1)
-u1 = User.find_by_variable()
-puts u1.print_all_reviews
+# u1 = User.find_by_variable()
+# puts u1.print_all_reviews
 
 
 puts
